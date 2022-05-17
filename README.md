@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murat Fatih</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Murat Fatih</h1>
 <h3 align="center">I'm a Full Stack Developer at Leipzig</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=fatihyanik&style=flat-square&color=blue" alt=""></p>
