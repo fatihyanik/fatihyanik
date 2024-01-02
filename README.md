@@ -7,7 +7,7 @@
 
 ##  <h3 align="center">🙋‍♂️ About Me:</h3>
 
-- 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
+- 🔭 I’m currently working on my **Frontend Developer at Keypoint It Solutions**
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB**
 
